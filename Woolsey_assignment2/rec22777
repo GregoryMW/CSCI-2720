@@ -1,0 +1,14 @@
+Woolsey_assignment2:
+total 44
+-rw-r--r--. 1 myid    1 Oct  3 22:46 empty.txt
+-rw-r--r--. 1 myid   25 Oct  3 16:20 input.txt
+-rw-r--r--. 1 myid  338 Oct  3 13:56 ItemType.cpp
+-rw-r--r--. 1 myid  246 Oct  3 13:04 ItemType.h
+-rw-r--r--. 1 myid  125 Oct  3 13:36 ListNode.h
+-rw-r--r--. 1 myid 6800 Oct  3 22:53 main.cpp
+-rw-r--r--. 1 myid  399 Oct  3 16:53 Makefile
+-rw-r--r--. 1 myid 1539 Oct  3 22:58 README.txt
+-rw-r--r--. 1 myid    0 Oct  3 22:59 rec22777
+-rw-r--r--. 1 myid 3644 Oct  3 22:56 SortedLinkedList.cpp
+-rw-r--r--. 1 myid  433 Oct  3 16:11 SortedLinkedList.h
+/home/myid/gmw30589/2720/Woolsey_assignment2:/home/myid/csci-2720c

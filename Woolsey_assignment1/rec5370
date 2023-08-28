@@ -1,0 +1,13 @@
+Woolsey_assignment1:
+total 44
+-rw-r--r--. 1 myid 3769 Sep  8 11:17 instructor.cpp
+-rw-r--r--. 1 myid  716 Sep  8 02:38 instructor.h
+-rw-r--r--. 1 myid   87 Sep  7 14:31 instructors.txt
+-rw-r--r--. 1 myid 9855 Sep  8 11:57 main.cpp
+-rw-r--r--. 1 myid  308 Sep  8 11:59 Makefile
+-rw-r--r--. 1 myid  570 Sep  8 12:07 README
+-rw-r--r--. 1 myid    0 Sep  8 12:10 rec5370
+-rw-r--r--. 1 myid 1073 Sep  8 01:28 student.cpp
+-rw-r--r--. 1 myid  753 Sep  8 01:27 student.h
+-rw-r--r--. 1 myid  832 Sep  7 14:31 students.txt
+/home/myid/gmw30589/2720/Woolsey_assignment1:/home/myid/csci-2720c

@@ -1,0 +1,16 @@
+Woolsey_assignment4:
+total 0
+drwxr-xr-x. 2 myid 205 Nov  5 20:31 BinarySearchTree
+-rw-r--r--. 1 myid   0 Nov  5 20:32 rec19356
+
+Woolsey_assignment4/BinarySearchTree:
+total 40
+-rw-r--r--. 1 myid 7571 Nov  5 20:13 BinaryTree.cpp
+-rw-r--r--. 1 myid 1313 Nov  5 20:06 BinaryTree.h
+-rw-r--r--. 1 myid   28 Nov  5 12:08 float-input1.txt
+-rw-r--r--. 1 myid   28 Nov  5 13:05 int-input1.txt
+-rw-r--r--. 1 myid 6468 Nov  5 20:15 main.cpp
+-rw-r--r--. 1 myid  224 Nov  5 11:56 Makefile
+-rw-r--r--. 1 myid 1974 Nov  5 20:30 README.txt
+-rw-r--r--. 1 myid   31 Nov  5 12:08 string-input1.txt
+/home/myid/gmw30589/2720/Woolsey_assignment4:/home/myid/csci-2720c

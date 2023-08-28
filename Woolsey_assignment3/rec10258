@@ -1,0 +1,17 @@
+Woolsey_assignment3:
+total 0
+drwxr-xr-x. 2 myid 240 Oct 18 03:13 DoublyLinkedList
+-rw-r--r--. 1 myid   0 Oct 18 03:14 rec10258
+
+Woolsey_assignment3/DoublyLinkedList:
+total 44
+-rw-r--r--. 1 myid 6704 Oct 18 02:58 DoublyLinkedList.cpp
+-rw-r--r--. 1 myid  506 Oct 17 20:49 DoublyLinkedList.h
+-rw-r--r--. 1 myid   43 Oct 17 16:04 float-input.txt
+-rw-r--r--. 1 myid   28 Oct 17 16:03 int-input2.txt
+-rw-r--r--. 1 myid   25 Oct 17 16:03 int-input.txt
+-rw-r--r--. 1 myid 6153 Oct 18 02:59 main.cpp
+-rw-r--r--. 1 myid  266 Oct 18 01:52 Makefile
+-rw-r--r--. 1 myid 2059 Oct 18 03:11 README.txt
+-rw-r--r--. 1 myid   28 Oct 17 16:03 string-input.txt
+/home/myid/gmw30589/2720/Woolsey_assignment3:/home/myid/csci-2720c

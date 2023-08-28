@@ -1,0 +1,16 @@
+Name of Program: main.cpp
+
+This program takes in and stores data from two given .txt files; One being for a list of instructors, and another for students. The user is then prompted several options to view various statistics
+about the grades from the students across the "class"
+
+CODER: Gregory Woolsey gmw30589@uga.edu
+
+How to compile: g++ -g -Wall -o main main.cpp instructor.cpp student.cpp
+
+OR use the included makefile
+make
+
+How to run:
+main [instructor_file] [student_file]
+
+The files instructors.txt and students.txt are given in the main folder of the assignment.
